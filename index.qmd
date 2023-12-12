@@ -1,0 +1,40 @@
+---
+title: "Abby Dunnigan" 
+about:
+  template: trestles  # jolla  trestles  solana  marquee  broadside
+  image: IMG_5348.JPG
+  image-width: 16em
+  image-shape: round # rectangle  round  rounded
+  
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com
+    - icon: github
+      text: GitHub
+      href: https://github.com
+    - icon: file-earmark-pdf
+      text: Resumé
+      href: https://GITHUB_USERNAME.github.io/resume-example.pdf
+    - icon: mailbox
+      text: Email
+      href: mailto:YOUR_EMAIL@geneseo.edu
+
+---
+
+
+Abby DUnnigan is a sophomore business admin major. Ouside of school Abby loves
+to play soccer and spend time with friends and family. 
+
+## Education
+
+State University of New York at Geneseo 
+
+## Experience
+
+Srudent 2022-2026
+
+
