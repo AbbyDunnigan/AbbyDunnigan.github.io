@@ -36,7 +36,7 @@ theme_set(theme_ipsum()+
 Let's analyze the `spotify` data:
 
 ```{r}
-spotify <- read_csv("https://bcdanl.github.io/data/spotify.csv")
+spotify <- read_csv("https://bcdanl.github.io/data/spotify_all.csv")
 ```
 
 

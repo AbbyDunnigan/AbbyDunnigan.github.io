@@ -193,7 +193,7 @@
     "href": "blog-listing.html",
     "title": "Insightful Analytics",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nNFL 2022\n\n\n\n\n\n\n\n\n\nNov 2, 2023\n\n\nAbby Dunnigan\n\n\n8 min\n\n\n\n\n\n\n  \n\n\n\n\nStarwars\n\n\n\n\n\n\n\n\n\nOct 30, 2023\n\n\nYour Name\n\n\n3 min\n\n\n\n\n\n\n  \n\n\n\n\nStarwars\n\n\n\n\n\n\n\n\n\nOct 30, 2023\n\n\nYour Name\n\n\n3 min\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\nOct 30, 2023\n\n\nYOUR NAME\n\n\n1 min\n\n\n\n\n\n\n  \n\n\n\n\nBeer\n\n\n\n\n\n\n\n\n\nOct 30, 2023\n\n\nAbby Dunnigan\n\n\n2 min\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\nOct 27, 2023\n\n\nYOUR NAME\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nNFL 2022\n\n\n\n\n\n\n\n\n\nNov 2, 2023\n\n\nAbby Dunnigan\n\n\n8 min\n\n\n\n\n\n\n  \n\n\n\n\nspotify\n\n\n\n\n\n\n\n\n\nOct 30, 2023\n\n\nabbydunnigan\n\n\n2 min\n\n\n\n\n\n\n  \n\n\n\n\nStarwars\n\n\n\n\n\n\n\n\n\nOct 30, 2023\n\n\nYour Name\n\n\n3 min\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\nOct 30, 2023\n\n\nYOUR NAME\n\n\n1 min\n\n\n\n\n\n\n  \n\n\n\n\nBeer\n\n\n\n\n\n\n\n\n\nOct 30, 2023\n\n\nAbby Dunnigan\n\n\n2 min\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\nOct 27, 2023\n\n\nYOUR NAME\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "project.html",
@@ -415,9 +415,9 @@
   {
     "objectID": "posts/spotify/spotify.html",
     "href": "posts/spotify/spotify.html",
-    "title": "Starwars",
+    "title": "spotify",
     "section": "",
-    "text": "Let’s analyze the starwars data:\nstarwars &lt;- read_csv(\"https://bcdanl.github.io/data/starwars.csv\")"
+    "text": "Let’s analyze the spotify data:\n\nspotify &lt;- read_csv(\"https://bcdanl.github.io/data/spotify_all.csv\")\n\nrmarkdown::paged_table(spotify) \n\n\n\n  \n\n\n```"
   },
   {
     "objectID": "posts/spotify/spotify.html#variable-description-for-starwars-data.frame",
